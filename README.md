@@ -13,7 +13,7 @@ Nesta aula aprendi como utilizar o git com os seguintes comandos:
 
 Conforme é possível ver na imagem acima,os arquivos em vermelho são arquivos foram adicionados e alterados. Agora para poder envia-los para o repositório do github,é necessário fazer os seguintes passos:
 
-* `git add .` :  esse comando serve para a adicionar todos os arquivos na lista de arquivos que vão ser enviados para o repositório do github. Ao fazer o comando `git status`é possível ver que a lista de arquivos, antes vermelha agora estão verdes:
+* `git add .`:  esse comando serve para a adicionar todos os arquivos na lista de arquivos que vão ser enviados para o repositório do github. Ao fazer o comando `git status`é possível ver que a lista de arquivos, antes vermelha agora estão verdes:
 
 ![Alt text](image-1.png)
 
